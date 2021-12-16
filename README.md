@@ -10,3 +10,5 @@
 8. Commit changes
 9. Push to git hub
 10. Start PR
+11. Add comment in PR
+12. Merge and accept PR
