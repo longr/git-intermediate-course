@@ -1,13 +1,13 @@
 # git-intermediate-course
 
-1. Created a new repository on GitHub (tick create ReadMe)
+1. Create a new repository on GitHub (tick create ReadMe)
    1. Go to GitHub.com
    2. Click on the plus symbol in the top right
    1. Click **New Repository**.
    1. Fill in the details requested.
    1. Tick **Add a README file**.
    1. Click **Create Repository**
-3. Cloned the repository to your local machine
+3. Clone the repository to your local machine
    1. Go to the repository you just created on GitHub. It should be called github.com/<username>/<repository_name>.
    1. Click on the green button labelled **Code**.
    1. Make sure **SSH** is selected and then click on the two overlapping squares to the right on the repository name (this will copy the repository details)
